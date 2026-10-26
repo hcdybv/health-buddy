@@ -1,5 +1,5 @@
 /* 健康 Buddy —— 离线缓存（应用外壳） */
-const CACHE = 'health-buddy-v2';
+const CACHE = 'health-buddy-v3';
 const ASSETS = [
   './index.html',
   './manifest.webmanifest',
